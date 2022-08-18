@@ -1,0 +1,46 @@
+/* Press Section */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+  
+  #press img{
+    width: 15%;
+    margin: 20px 20px;
+  }
+  
+  /* Price Section */
+  #pricing{
+   padding: 100px;
+   text-align: center;
+  }
+  
+  #pricing h1{
+    font-weight: bold;
+  }
+  
+  #pricing h2{
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  #pricing p{
+    padding: 2% 2% 4%;
+  }
+  
+  #pricing h4{
+    font-family: 'Montserrat';
+    font-weight: 900;
+  }
+  
+  .card-body li{
+    color: #8f8f8f;
+    padding: 2%;
+  }
+  
+  
+  #pricing button{
+    width: 100%;
+  }

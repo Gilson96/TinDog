@@ -1,0 +1,58 @@
+/* Features Section */
+
+#features{
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+  }
+  
+  .feature-box{
+    text-align: center;
+    padding: 4.5%;
+    
+  }
+  
+  .icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover{
+    color: #ff4c68;
+  }
+  
+  /* Testimonials Section */
+  
+  #testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 5%;
+  }
+  
+  #testimonials h2{
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  #testimonials h3{
+    padding: 0% 4% 10% 4%;
+  }
+
+  
+  #testimonials img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 3%;
+  }
+  
+  .carousel-item{
+    padding: 7% 15%;
+  }
+
+  .carousel-indicators{
+    display: none;
+  }
