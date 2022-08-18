@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TinDog/static/css/main.3c1868d7.css",
+    "main.js": "/TinDog/static/js/main.45bee98f.js",
+    "static/media/iphone6.png": "/TinDog/static/media/iphone6.124c43879471b6178749.png",
+    "static/media/lady-img.jpg": "/TinDog/static/media/lady-img.8ee2d8f8e7a0264be864.jpg",
+    "static/media/tnw.png": "/TinDog/static/media/tnw.df4383d7da108661153d.png",
+    "static/media/dog-img.jpg": "/TinDog/static/media/dog-img.55f952d2e1c9a2132e59.jpg",
+    "static/media/mashable.png": "/TinDog/static/media/mashable.a2876b348f9b9411144d.png",
+    "static/media/bizinsider.png": "/TinDog/static/media/bizinsider.f236711d674a660bec6e.png",
+    "static/media/techcrunch.png": "/TinDog/static/media/techcrunch.ce0e5471891d6de27c36.png",
+    "index.html": "/TinDog/index.html",
+    "main.3c1868d7.css.map": "/TinDog/static/css/main.3c1868d7.css.map",
+    "main.45bee98f.js.map": "/TinDog/static/js/main.45bee98f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1868d7.css",
+    "static/js/main.45bee98f.js"
+  ]
+}
