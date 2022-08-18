@@ -1,38 +1,128 @@
-.App {
-  text-align: center;
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+
+/* header */
+@import './styles/__header.css';
+
+/* price */
+@import './styles/__price.css';
+
+/* testimonials */
+@import './styles/__testimonials.css';
+
+/* cta */
+@import './styles/__cta.css';
+
+/* footer */
+@import './styles/__footer.css';
+
+
+
+
+/* Structure */
+html{
+  scroll-behavior: smooth;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  font-family: 'Montserrat';
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+h3{
+  font-weight: bold;
+}
+
+body p{
+  color: #8f8f8f;
+}
+
+
+
+
+@media (max-width: 1028px){
+  #title{
+      text-align: center;
+  }
+
+  #title img{
+      position: static;
+      transform: rotate(0);
+  }
+
+  #nav-mr-auto{
+    margin-left: 0%;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@media (min-width: 992px) and (max-width: 1029px) {
+  #title h1{
+      text-align: initial;
+  }
+
+  #title img{
+      position: static;
+      transform: rotate(0) translateX(20%);
+  }
+
+  #nav-mr-auto{
+    margin-left: 62%;
+  }
+  #title button{
+      margin: 0;
+  }
+
+  
 }
 
-.App-link {
-  color: #61dafb;
-}
+  @media (max-width: 700px)  {
+    #title h1{
+        text-align: center;
+        font-size: 2.5rem;
+    }
+  
+    #title img{
+        position: static;
+        transform: rotate(0) translateX(5%);
+    }
+  
+    #title button{
+        margin:0.7rem;
+    }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    #pricing h2{
+      font-weight: 300;
+      font-size: 2.5rem;
+    }
+
+    #pricing h1{
+      font-weight: 300;
+      font-size: 1.5rem;
+    }
+
+    #pricing h4{
+      font-size: 0.8rem;
+    }
+
+    .card-body li{
+
+      font-size: 0.7rem;
+    }
+
+    #pricing button{
+
+      font-size: 1rem;
+    }
+
+    #cta h3{
+      font-size: 1.3rem;
+    }
+
+    #testimonials h3{
+      font-size: 1.2rem;
+      padding-bottom: 22%;
+    }
+
+    #link{
+      padding: 7% 0%
+    }
 }
