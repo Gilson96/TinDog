@@ -14,4 +14,5 @@ You can view the site here: https://gilson96.github.io/TinDog/
 
 ## Screenshot
 ![Wireframe](https://github.com/Gilson96/TinDog/blob/master/src/assets/Screenshot(116).png)
-)
+![Wireframe](https://github.com/Gilson96/CRUD-App/blob/master/src/Assets/Screenshot.png)
+
