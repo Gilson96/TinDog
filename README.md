@@ -8,7 +8,8 @@ You can view the site here: https://gilson96.github.io/TinDog/
 ## Technologies
 - HTML, 
 - CSS,
-- Bootstrap
+- Bootstrap,
+- React
 - Git/ GitHub,
 - GitHub Pages,
 
