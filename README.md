@@ -1,6 +1,7 @@
 # Tindog
 
-Tindog is like tinder but for dogs :grin:
+A simple yet beautiful website built with react-bootstrap
+that is based in Tinder but modified for dogs.
 
 You can view the site here: https://gilson96.github.io/TinDog/
 
